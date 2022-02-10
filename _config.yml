@@ -64,9 +64,9 @@ gitalk:
   enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: yanloveye.github.io    #仓库名称
+  owner: yanloveye   #github用户名
+  admin: yanloveye
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -108,7 +108,7 @@ friends: [
         title: "没办法了，要上图书馆了",
         href: "https://library.xmu.edu.cn/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "CSDN",
+        href: "http://www.csdn.net/"
     }
 ]
